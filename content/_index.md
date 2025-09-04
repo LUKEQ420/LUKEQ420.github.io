@@ -38,12 +38,12 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+      text:  |-
+         I am a research assistant in [**Professor Li Xin's** Reinforcement Learning Group](https://bit1029public.github.io/), where my blog serves as a platform to document my learning journey and insights into the field of reinforcement learning.      
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+         In collaboration with  [**Professor Qingan Qiu**](https://scholar.google.com/citations?user=fFIqhbYAAAAJ&hl=en), I am also engaged in research on **reliability-based engineering decision-making under incomplete information**. This work has resulted in one published paper in a **JCR Q1 journal**, with a new manuscript currently being prepared for submission.
+
+         I am passionate about applying machine learning, reinforcement learning, and probability and statistics to model and solve complex real-world problems. If you are interested in any of my research areas or would like to collaborate, please feel free to reach out 🤝
     design:
       columns: '1'
   - block: collection
