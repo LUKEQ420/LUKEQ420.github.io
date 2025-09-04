@@ -5,19 +5,18 @@ date: 2025-07-12
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+#image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 
 authors:
   - admin
-  - Junqi-Lu
 
 tags:
   - Dynamic programming
 ---
 
-# [Leecode 70. 爬楼梯](https://leetcode.cn/problems/climbing-stairs/description/?envType=study-plan-v2&envId=dynamic-programming)
-## 题目描述
+## [Leecode 70. 爬楼梯](https://leetcode.cn/problems/climbing-stairs/description/?envType=study-plan-v2&envId=dynamic-programming)
+### 题目描述
 假设你正在爬楼梯。需要 `n` 阶你才能到达楼顶。
 
 每次你可以爬 `1` 或 `2` 个台阶。你有多少种不同的方法可以爬到楼顶呢？
@@ -40,7 +39,7 @@ tags:
 - 提示：
 > `1 <= n <= 45`
 
-## 解题思路
+### 解题思路
 动态规划的解题关键在于用表格存储局部解的结果，再用局部解来递推求最终结果，其中最关键的点就在于如何建立递推公式。
 
 对于本题中，可以先从简单情形开始考虑：
@@ -82,8 +81,8 @@ public:
 ```
 在上面代码中，每次计算$a_{n}$都需要递归调用计算$a_{n-1}$和$a_{n-2}$两部分，且又可以注意到当计算$a_{n-1}$的时候还需要再次计算$a_{n-2}$，显然其中计算的时间复杂度特别高，估算后为$O(2^n)$，相比之前的$O(n)$而言时间复杂度特别之大，从而可以看出动态规划显著降低了时间复杂度。
 
-# [Leecode 509. 斐波那契数](https://leetcode.cn/problems/fibonacci-number/?envType=study-plan-v2&envId=dynamic-programming)
-## 题目描述
+## [Leecode 509. 斐波那契数](https://leetcode.cn/problems/fibonacci-number/?envType=study-plan-v2&envId=dynamic-programming)
+### 题目描述
 - 斐波那契数 （通常用 `F(n)` 表示）形成的序列称为 斐波那契数列 。该数列由 `0` 和 `1` 开始，后面的每一项数字都是前面两项数字的和。也就是：
 - `F(0) = 0`，`F(1) = 1`
 - `F(n) = F(n - 1) + F(n - 2)`，其中 `n > 1`
@@ -105,7 +104,7 @@ public:
 - 提示：
 > `0 <= n <= 30`
 
-## 解题思路
+### 解题思路
 本题是很经典的斐波那契数列，和上一题的计算方式非常相似，根据递推公式可以直接计算并存储到数组中，然后再查表输出。
 由此可以写出代码如下：
 ```c++
@@ -121,8 +120,8 @@ public:
 ```
 上面这段代码中，仅使用了一个长度为3的数组来进行存储，其中两个用于存储前两个数的结果，用一个来计算两数之和并存储。由此控制空间复杂度为$O(1)$，同时时间复杂度为$O(n)$。
 
-# [Leecode 1137. 第 N 个泰波那契数](https://leetcode.cn/problems/n-th-tribonacci-number/?envType=study-plan-v2&envId=dynamic-programming)
-## 题目描述
+## [Leecode 1137. 第 N 个泰波那契数](https://leetcode.cn/problems/n-th-tribonacci-number/?envType=study-plan-v2&envId=dynamic-programming)
+### 题目描述
 泰波那契序列 `Tn` 定义如下： 
 
 `T0 = 0`, `T1 = 1`, `T2 = 1`, 且在 `n >= 0` 的条件下 `Tn+3 = Tn + Tn+1 + Tn+2`
@@ -144,7 +143,7 @@ public:
 > `0 <= n <= 37`
 > 答案保证是一个 `32` 位整数，即 `answer <= 2^31 - 1`。
 
-## 题目解析
+### 题目解析
 首先需要注意本题不是一般的斐波那契数列，而是**泰波那契**数列，即为前3个数之和，此外其余和之前的斐波那契数列并没有太多差别。
 
 思路同样都是，先计算建表，再查表输出。
@@ -164,8 +163,8 @@ public:
 直接使用上面代码即可计算这个泰波那契数列，时间复杂度为$O(n)$。
 
 
-# [746. 使用最小花费爬楼梯](https://leetcode.cn/problems/min-cost-climbing-stairs/description/?envType=study-plan-v2&envId=dynamic-programming)
-## 题目描述
+## [746. 使用最小花费爬楼梯](https://leetcode.cn/problems/min-cost-climbing-stairs/description/?envType=study-plan-v2&envId=dynamic-programming)
+### 题目描述
 给你一个整数数组 `cost` ，其中 `cost[i]` 是从楼梯第 `i` 个台阶向上爬需要支付的费用。一旦你支付此费用，即可选择向上爬一个或者两个台阶。
 
 你可以选择从下标为 `0` 或下标为 `1` 的台阶开始爬楼梯。
@@ -195,7 +194,7 @@ public:
 > `2 <= cost.length <= 1000`
 > `0 <= cost[i] <= 999`
 
-## 题目解析
+### 题目解析
 要计算爬完楼梯所用的最少花费，同样也可以使用动态规划的方法，使用一个表格来存储局部的最优解，最后通过查表输出结果。
 关键在于如何通过局部解递推更大的局部解，可以建立一个数组，用于存储**该层楼梯到顶部还需的最少花费**，最后输出即为第1阶和第2阶中花费中更小的一个。
 接下来我们分析如何构建这个数组。
@@ -225,8 +224,8 @@ public:
 最后返回输出初始两阶中更小的一个，相当于题目中描述的“ **可以选择从下标为** `0` **或下标为** `1` **的台阶开始爬楼梯**”。
 
 
-# [198. 打家劫舍](https://leetcode.cn/problems/house-robber/description/?envType=study-plan-v2&envId=dynamic-programming)
-## 题目描述
+## [198. 打家劫舍](https://leetcode.cn/problems/house-robber/description/?envType=study-plan-v2&envId=dynamic-programming)
+### 题目描述
 你是一个专业的小偷，计划偷窃沿街的房屋。每间房内都藏有一定的现金，影响你偷窃的唯一制约因素就是相邻的房屋装有相互连通的防盗系统，如果两间相邻的房屋在同一晚上被小偷闯入，系统会自动报警。
 
 给定一个代表每个房屋存放金额的非负整数数组，计算你 **不触动警报装置的情况下** ，一夜之内能够偷窃到的最高金额。
@@ -247,7 +246,7 @@ public:
 > `1 <= nums.length <= 100`
 > `0 <= nums[i] <= 400`
 
-## 题目解析
+### 题目解析
 本题“打家劫舍”是很经典的动态规划问题，在不可相邻的限制之下，要尽可能取到和的最大值。要采用动态规划，我们同样还是通过 **计算建表** -> **查表输出** 的范式来求解。
 可以考虑建立一个数组，用于存储“ **从第一个房屋到当前房屋的最大金额** ”，也还是通过数量更小的情况来分析：
 - 对于第一个房屋，要金额最大则必须抢下这个房屋，有`dp[0] = nums[0]`
@@ -277,8 +276,8 @@ public:
 
 **小结**：本题关键点在于理解其中`dp`数组的意义，相当于存储了一个**局部**的最优解，并通过这样的局部解来递推求解更大的局部解，最终得到全局最优解。
 
-# [740. 删除并获得点数](https://leetcode.cn/problems/delete-and-earn/description/?envType=study-plan-v2&envId=dynamic-programming)
-## 题目描述
+## [740. 删除并获得点数](https://leetcode.cn/problems/delete-and-earn/description/?envType=study-plan-v2&envId=dynamic-programming)
+### 题目描述
 给你一个整数数组 `nums` ，你可以对它进行一些操作。
 
 每次操作中，选择任意一个 `nums[i]` ，删除它并获得 `nums[i]` 的点数。之后，你必须删除 **所有** 等于 `nums[i] - 1` 和 `nums[i] + 1` 的元素。
@@ -303,7 +302,7 @@ public:
 > `1 <= nums.length <= 2 * 104`
 > `1 <= nums[i] <= 104`
 
-## 题目解析
+### 题目解析
 本题和上一题的**打家劫舍**非常相似，但需要先对数据进行一些处理。
 首先因为是给定的数组中的相邻关系是乱序的，我们需要进行数据的统计，记录出每个数出现的频率。
 再计算每个数的全部分数，存储到一个新的数组`count`中。
@@ -332,5 +331,5 @@ public:
 ```
 
 
-# 小结
+## 小结
 本文讲解了几道动态规划中斐波那契类型问题，其中关键都在于建立递推公式，再将计算的结果存储到一个数组中，最后再通过查表输出。
