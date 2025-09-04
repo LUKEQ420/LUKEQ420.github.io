@@ -91,12 +91,8 @@ skills:
         description: 'RL, Diffusion Policy, Decision Transformers'
         percent: 70 
         icon: custom/brain
-      - name: Data Analysis
-        description: 'Jupyter, Pandas, NumPy'
-        percent: 80
-        icon: chart-bar
       - name: Mathematical Modeling
-        description: 'Modeled ecological nitrogen cycling using differential equations in MCM/ICM. Awarded Finalist and ranked Top 1.96% of 27,456 teams worldwide.'
+        description: 'Modeled ecological nitrogen cycling using differential equations in MCM/ICM awarded finalist.
         percent: 90
         icon: custom/chart-line
   - name: Hobbies
@@ -107,14 +103,14 @@ skills:
         description: 'Marathon enthusiast with an annual running distance of over 1000km.'
         percent: 90
         icon: person-simple-walk
-      - name: Cats
-        description: 'Everybody loves cats, right?'
-        percent: 100
-        icon: cat
       - name: Guitar
         description: 'Serves as the guitarist in a rock band on campus.'
         pecent: 100
         icon: custom/guitar
+      - name: Cats
+        description: 'Everybody loves cats, right?'
+        percent: 100
+        icon: cat
 
 # Awards.
 #   Add/remove as many awards below as you like.
