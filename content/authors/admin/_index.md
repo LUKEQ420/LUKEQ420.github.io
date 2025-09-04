@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 吳健雄
+title: 陆俊骐
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Lu Jun Qi
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Junqi
+last_name: Lu
 
 # Pronouns (optional)
-pronouns: she/her
+# pronouns: she/her
 
 # Status emoji
 status:
@@ -23,92 +23,44 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Undergraduate Student / Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Beijing Institute of Technology
+    url: https://english.bit.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:junqi_lu@bit.edu.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://github.com/LUKEQ420
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=GZW42aQAAAAJ&hl=en
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Mathematical Modeling
+  - Reinforcement Learning
+  - Reliability Engineering
+  - Bayesian Statistics
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.S. in Computer Science and Technology
+    institution: Beijing Institute of Technology
+    date_start: 2024-08-15
+    date_end: 2026-06-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      Focusing on advanced algorithms, machine learning, and artificial intelligence. This dual-degree program provides a strong foundation for my current research in Embodied AI and RL.
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.S. in Mathematics and Applied Mathematics
+    institution: Beijing Institute of Technology
+    date_start: 2020-10-09
+    date_end: 2024-06-30
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      This program laid the groundwork for my analytical and problem-solving skills, which were instrumental in my early research endeavors and success in international math competitions.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -116,74 +68,76 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
-        percent: 80
+        description: 'PyTorch, TensorFlow, scikit-learn'
+        percent: 80 
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
+      - name: C++
+        description: 'Object-oriented programming, data structures, 100+ LeetCode problems'
+        percent: 80 
+        icon: code-bracket
+      - name: LaTeX
+        description: 'Academic Writing'
+        percent: 90
+        icon: code-bracket
+      - name: Robotics
+        description: 'ROS, Gazebo, Robot Simulation'
+        percent: 50
+        icon: custom/robot
+  - name: Research & Analysis
+    color: '#3498db'
+    color_border: '#3498db'
+    items:
+      - name: Reinforcement Learning
+        description: 'RL, Diffusion Policy, Decision Transformers'
+        percent: 70 
+        icon: custom/brain
+      - name: Data Analysis
+        description: 'Jupyter, Pandas, NumPy'
+        percent: 80
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+      - name: Mathematical Modeling
+        description: 'Modeled ecological nitrogen cycling using differential equations in MCM/ICM. Awarded Finalist and ranked Top 1.96% of 27,456 teams worldwide.'
+        percent: 90
+        icon: custom/chart-line
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
+      - name: Running
+        description: 'Marathon enthusiast with an annual running distance of over 1000km.'
+        percent: 90
         icon: person-simple-walk
       - name: Cats
-        description: ''
+        description: 'Everybody loves cats, right?'
         percent: 100
         icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
-
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+      - name: Guitar
+        description: 'Serves as the guitarist in a rock band on campus.'
+        pecent: 100
+        icon: custom/guitar
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Finalist ([MCM/ICM](https://www.comap.com/contests/mcm-icm)) <br> Top 1.96% of 27,456 teams worldwide
+    date: '2025-05-09'
+    awarder: Consortium for Mathematics and its Applications (COMAP)
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      This study quantifies the ecological impact of converting forests to farmland by focusing on nitrogen cycling, a key indicator of ecosystem health. We developed three dynamic models using modified Lotka-Volterra equations: a **Forest Ecosystem Nitrogen Cycle Model (FENCM)**, an **Agricultural Ecosystem Nitrogen Cycle Model (AENCM)** incorporating human interventions, and a more complex **Agricultural Ecosystem-Food Web-Nitrogen Cycle Model (AE-FW-NCM)**. Our comparative analysis of these models highlights the trade-offs between agricultural yield, biodiversity, and sustainability, and concludes with practical recommendations for farmers. The TeX source and numerical simulation code are [open-sourced on GitHub](https://github.com/LUKEQ420/MCM-ICM-2025-E-Nitrogen-Cycling-Model).
+    icon: trophy
+  - title: Meritorious Winner ([MCM/ICM](https://www.comap.com/contests/mcm-icm)) <br> Top 9.29% of 20,858 teams worldwide
+    date: '2023-05-01'
+    awarder: Consortium for Mathematics and its Applications (COMAP)
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      To address the increasing frequency of droughts, we developed a series of mathematical models to predict the viability of plant communities under various climate scenarios. Our approach included a **Soil-Water Model (SWM)** based on Darcy's Law and an **Improved Population Lotka-Volterra Model (PLVM)** that accounts for species competition. We combined these into a comprehensive **Plant Soil Moisture Competition Model (PSMCM)** to solve real-world problems related to drought mitigation and sustainable land-use planning. Our study provides valuable insights into the composition of drought-resistant plant communities and can assist in conservation efforts in arid regions.
+    icon: uploads/medal
 ---
 
 ## About Me
+I'm a dual-degree student at the Beijing Institute of Technology, with a bachelor's in Mathematics  and a second degree in Computer Science.
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My academic focus is on the intersection of mathematical modeling and modern machine learning. I'm especially interested in applying methods like reinforcement learning, machine learning, and Bayesian statistics to solve complex, real-world problems.
+
+I am currently seeking master's and Ph.D. programs where I can apply my interdisciplinary background to address high-impact research questions. Please feel free to reach out for any potential collaborations.
