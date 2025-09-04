@@ -112,6 +112,14 @@ skills:
         percent: 100
         icon: cat
 
+languages:
+  - name: Chinese
+    percent: 100
+  - name: English
+    percent: 75
+  - name: German
+    percent: 10
+
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
