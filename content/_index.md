@@ -38,7 +38,7 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      text:  |-
+      text:   |-
          I am a research assistant in [**Professor Li Xin's** Reinforcement Learning Group](https://bit1029public.github.io/), where my blog serves as a platform to document my learning journey and insights into the field of reinforcement learning.      
 
          In collaboration with  [**Professor Qingan Qiu**](https://scholar.google.com/citations?user=fFIqhbYAAAAJ&hl=en), I am also engaged in research on **reliability-based engineering decision-making under incomplete information**. This work has resulted in one published paper in a **JCR Q1 journal**, with a new manuscript currently being prepared for submission.
