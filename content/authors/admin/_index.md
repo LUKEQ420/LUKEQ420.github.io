@@ -42,10 +42,11 @@ profiles:
     url: https://scholar.google.com/citations?user=GZW42aQAAAAJ&hl=en
 
 interests:
-  - Mathematical Modeling
-  - Reinforcement Learning
-  - Reliability Engineering
   - Bayesian Statistics
+  - Reliability Engineering
+  - Reinforcement Learning
+  - Mathematical Modeling
+
 
 education:
   - area: B.S. in Computer Science and Technology
