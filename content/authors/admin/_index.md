@@ -143,8 +143,8 @@ awards:
 ---
 
 ## About Me
-I'm a dual-degree student at the Beijing Institute of Technology, with a bachelor's in Mathematics and a top-ranked second degree in Computer Science.
+I have completed a Bachelor's degree in Mathematics and am now pursuing a second degree in Computer Science at the Beijing Institute of Technology.
 
-My academic focus is on developing computationally efficient and robust machine learning methods. My research experience spans both Bayesian modeling for reliability engineering and cutting-edge reinforcement learning, leading to a focused interest in scalable inference and latent dynamics modeling. My goal is to apply these principles to solve complex, real-world problems.
+My research lies at the intersection of Bayesian statistics and modern reinforcement learning. Through my work on reliability engineering and state representation learning, I've become focused on two fundamental challenges: the computational scalability of Bayesian inference in complex systems, and the expressive modeling of latent dynamics. I am driven to create methods that are not only theoretically sound but also computationally tractable for real-world applications.
 
-I am currently seeking Ph.D. programs where I can apply my interdisciplinary background to address high-impact research questions in areas like robust AI and risk assessment. I welcome any opportunities for collaboration.
+I am currently seeking Ph.D. opportunities to develop computationally efficient statistical models that can address these challenges, particularly in high-stakes domains like quantitative risk assessment and robust AI. Please feel free to reach out for potential collaborations or discussions.
