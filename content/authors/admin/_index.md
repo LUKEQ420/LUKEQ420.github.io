@@ -54,14 +54,14 @@ education:
     date_start: 2024-08-15
     date_end: 2026-06-30
     summary: |
-      Focusing on advanced algorithms, machine learning, and artificial intelligence. This dual-degree program provides a strong foundation for my current research in Embodied AI and RL.
+      Focusing on advanced algorithms, machine learning, and artificial intelligence. This dual-degree program provides a strong foundation for my current research in Reinforcement Learning.
 
   - area: B.S. in Mathematics and Applied Mathematics
     institution: Beijing Institute of Technology
     date_start: 2020-10-09
     date_end: 2024-06-30
     summary: |
-      This program laid the groundwork for my analytical and problem-solving skills, which were instrumental in my early research endeavors and success in international math competitions.
+      This program laid the groundwork for my analytical and problem-solving skills, which were instrumental in my research in reliability engineering and success in international math competitions.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -126,6 +126,12 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Excellent Student Scholarship
+    date: '2025-09-15' 
+    awarder: Beijing Institute of Technology
+    summary: |
+      Awarded for achieving the top academic rank (1st place) in the class during the 2024-2025-2nd semester. This scholarship recognizes exceptional academic performance and dedication to studies.
+    icon: uploads/graduation-cap 
   - title: Finalist ([MCM/ICM](https://www.comap.com/contests/mcm-icm)) <br> Top 1.96% of 27,456 teams worldwide
     date: '2025-05-09'
     awarder: Consortium for Mathematics and its Applications (COMAP)
