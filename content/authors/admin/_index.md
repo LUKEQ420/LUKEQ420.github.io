@@ -80,10 +80,6 @@ skills:
         description: 'Academic Writing'
         percent: 90
         icon: code-bracket
-      - name: Robotics
-        description: 'ROS, Gazebo, Robot Simulation'
-        percent: 50
-        icon: custom/robot
 #  - name: Research & Analysis
 #    color: '#3498db'
 #    color_border: '#3498db'
