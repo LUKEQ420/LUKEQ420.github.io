@@ -130,7 +130,7 @@ awards:
     date: '2025-09-15' 
     awarder: Beijing Institute of Technology
     summary: |
-      Awarded for achieving the top academic rank (1st place) in the class during the 2024-2025-2nd semester. This scholarship recognizes exceptional academic performance and dedication to studies.
+      Awarded for achieving the **top academic rank (1st place)** in the class during the 2024-2025-2nd semester. This scholarship recognizes exceptional academic performance and dedication to studies.
     icon: uploads/graduation-cap 
   - title: Finalist ([MCM/ICM](https://www.comap.com/contests/mcm-icm)) <br> Top 1.96% of 27,456 teams worldwide
     date: '2025-05-09'
