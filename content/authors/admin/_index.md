@@ -145,4 +145,4 @@ awards:
 ## About Me
 I have completed a Bachelor's degree in Mathematics and am now pursuing a second degree in Computer Science at the Beijing Institute of Technology.
 
-My research lies at the intersection of Bayesian statistics and modern reinforcement learning. Through my work on reliability engineering and state representation learning, I've become focused on two fundamental challenges: the computational scalability of Bayesian inference in complex systems, and the expressive modeling of latent dynamics. I am driven to create methods that are not only theoretically sound but also computationally tractable for real-world applications.
+My research lies at the intersection of Bayesian statistics and modern reinforcement learning. Through my work on reliability engineering and state representation learning, I've become focused on two fundamental challenges: the computational scalability of Bayesian inference and the expressive modeling of latent dynamics. I am currently seeking Ph.D. opportunities to advance this research and welcome potential collaborations.
