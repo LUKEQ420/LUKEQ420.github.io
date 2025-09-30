@@ -84,18 +84,18 @@ skills:
         description: 'ROS, Gazebo, Robot Simulation'
         percent: 50
         icon: custom/robot
-  - name: Research & Analysis
-    color: '#3498db'
-    color_border: '#3498db'
-    items:
-      - name: Reinforcement Learning
-        description: 'RL, Diffusion Policy, Decision Transformers'
-        percent: 70 
-        icon: custom/brain
-      - name: Mathematical Modeling
-        description: 'Modeled ecological nitrogen cycling using differential equations in MCM/ICM awarded finalist.
-        percent: 90
-        icon: custom/chart-line
+#  - name: Research & Analysis
+#    color: '#3498db'
+#    color_border: '#3498db'
+#    items:
+#      - name: Reinforcement Learning
+#        description: 'RL, Diffusion Policy, Decision Transformers'
+#        percent: 70 
+#        icon: custom/brain
+#      - name: Mathematical Modeling
+#        description: 'Modeled ecological nitrogen cycling using differential equations in MCM/ICM awarded finalist.
+#        percent: 90
+#        icon: custom/chart-line
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
