@@ -138,7 +138,7 @@ awards:
     date: '2024-06-30'
     awarder: Beijing Institute of Technology
     summary: |
-      This prize was awarded for my undergraduate thesis, which developed a novel **Markov Decision Process (MDP) framework** to model and solve complex task termination problems. This research focused on safety-critical systems operating under hybrid uncertainty of both system lifetime and task duration. The findings from this thesis were significant and formed the basis of my first-author publication in the JCR Q1 journal, **Computers Industrial Engineering**. 
+      This prize was awarded for my undergraduate thesis, which developed a novel **Markov Decision Process (MDP) framework** to model and solve complex task termination problems. This research focused on safety-critical systems operating under hybrid uncertainty of both system lifetime and task duration. The findings from this thesis were significant and formed the basis of my first-author publication in the JCR Q1 journal, **Computers Industrial Engineering**. [See the publication](https://doi.org/10.1016/j.cie.2025.111208) .
     icon: trophy
   - title: Meritorious Winner ([MCM/ICM](https://www.comap.com/contests/mcm-icm)) <br> Top 9.29% of 20,858 teams worldwide
     date: '2023-05-01'
