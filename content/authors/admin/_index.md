@@ -134,6 +134,12 @@ awards:
     summary: |
       This study quantifies the ecological impact of converting forests to farmland by focusing on nitrogen cycling, a key indicator of ecosystem health. We developed three dynamic models using modified Lotka-Volterra equations: a **Forest Ecosystem Nitrogen Cycle Model (FENCM)**, an **Agricultural Ecosystem Nitrogen Cycle Model (AENCM)** incorporating human interventions, and a more complex **Agricultural Ecosystem-Food Web-Nitrogen Cycle Model (AE-FW-NCM)**. Our comparative analysis of these models highlights the trade-offs between agricultural yield, biodiversity, and sustainability, and concludes with practical recommendations for farmers. The TeX source and numerical simulation code are [open-sourced on GitHub](https://github.com/LUKEQ420/MCM-ICM-2025-E-Nitrogen-Cycling-Model).
     icon: trophy
+  - title: "Excellent Thesis" Prize
+    date: '2024-06-30'
+    awarder: Beijing Institute of Technology
+    summary: |
+      This prize was awarded for my undergraduate thesis, which developed a novel **Markov Decision Process (MDP) framework** to model and solve complex task termination problems. This research focused on safety-critical systems operating under hybrid uncertainty of both system lifetime and task duration. The findings from this thesis were significant and formed the basis of my first-author publication in the JCR Q1 journal, **Computers & Industrial Engineering**. [See the publication](https://doi.org/10.1016/j.cie.2025.111208).
+    icon: trophy
   - title: Meritorious Winner ([MCM/ICM](https://www.comap.com/contests/mcm-icm)) <br> Top 9.29% of 20,858 teams worldwide
     date: '2023-05-01'
     awarder: Consortium for Mathematics and its Applications (COMAP)
