@@ -123,7 +123,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Excellent Student Scholarship
-    date: '2025-09-15' 
+    date: '2025-10-15' 
     awarder: Beijing Institute of Technology
     summary: |
       Awarded for achieving the **top academic rank (1st place)** in the class during the 2024-2025-2nd semester. This scholarship recognizes exceptional academic performance and dedication to studies.
