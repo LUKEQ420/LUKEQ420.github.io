@@ -82,7 +82,7 @@ skills:
         icon: code-bracket
 #  - name: Research & Analysis
 #    color: '#3498db'
-#    color_border: '#3498db'
+#    color_border: '#3498db' 
 #    items:
 #      - name: Reinforcement Learning
 #        description: 'RL, Diffusion Policy, Decision Transformers'
