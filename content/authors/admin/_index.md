@@ -154,4 +154,5 @@ I have completed a Bachelor's degree in Mathematics and am now pursuing a second
 My core research interest is centered on **Markov Decision Process (MDP)** and **Deep Reinforcement Learning (DRL)**. My work primarily spans two key areas:
 1. **DRL Applications:** Applying DRL methods to solve complex, real-world optimization problems, such as critical mission termination and system maintenance strategies in **reliability engineering**.
 2. **DRL Algorithms:** Advancing core algorithmic efficiency and robustness, focusing specifically on **State Representation Learning** to enhance model generalization and sample efficiency.
+
 I am passionate about developing methods that are both theoretically rigorous and practically applicable. I am currently seeking **graduate opportunities (M.S. and Ph.D.)** in related fields and welcome opportunities for academic collaboration. 
