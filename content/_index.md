@@ -49,8 +49,15 @@ sections:
     design:
       columns: '1'
       #css_class: "container-xl" # or "container-fluid"
-      full_width: true
-      css_class: "research-full-width"
+      css_style: |
+        .block-markdown > div.container {
+          max-width: 95% !important;
+          width: 95% !important;
+        }
+        .block-markdown .container {
+          max-width: 95% !important;
+          width: 95% !important;
+        }
   - block: collection
     id: papers
     content:
