@@ -34,7 +34,7 @@ sections:
           size: cover
           position: center
           parallax: false
-- block: markdown
+  - block: markdown
     content:
       title: '📚 My Research'
       subtitle: 'Deep Reinforcement Learning & Reliability Optimization'
