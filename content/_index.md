@@ -34,18 +34,18 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text:   |-
-         I am a research assistant in [**Professor Li Xin's** Reinforcement Learning Group](https://bit1029public.github.io/), where my blog serves as a platform to document my learning journey and insights into the field of reinforcement learning.      
+- block: markdown
+    content:
+      title: '📚 My Research'
+      subtitle: 'Deep Reinforcement Learning & Reliability Optimization'
+      text:   |-
+         My research work centers on applying **Markov Decision Processes (MDP)** and **Deep Reinforcement Learning (DRL)** to complex decision-making and algorithmic improvement.
+      1.  **DRL Algorithms & State Representation:** As a research assistant in [**Professor Li Xin**](https://scholar.google.com/citations?user=CpIQOm0AAAAJ&hl=en)'s [Reinforcement Learning Group](https://bit1029public.github.io/), I focus on developing advanced DRL algorithms, including improving model efficiency and generalization through **Bisimulation Metrics** and robust state representation learning. 
+      2.  **Reliability Engineering Optimization:** In collaboration with [**Professor Qingan Qiu**](https://scholar.google.com/citations?user=fFIqhbYAAAAJ&hl=en), I address **reliability-based engineering decision-making** under uncertainty. [cite_start]This work has resulted in a first-author publication in a **JCR Q1 journal** ($\textit{Computers \& Industrial Engineering}$) , with ongoing efforts focused on extending the MDP framework using RL.
 
-         In collaboration with  [**Professor Qingan Qiu**](https://scholar.google.com/citations?user=fFIqhbYAAAAJ&hl=en), I am also engaged in research on **reliability-based engineering decision-making under incomplete information**. This work has resulted in one published paper in a **JCR Q1 journal**, with a new manuscript currently being prepared for submission.
-
-         I am passionate about applying machine learning, reinforcement learning, and probability and statistics to model and solve complex real-world problems. If you are interested in any of my research areas or would like to collaborate, please feel free to reach out 🤝
-    design:
-      columns: '1'
+         I am passionate about advancing methods that are both theoretically sound and practically applicable to real-world problems. I welcome opportunities for academic collaboration. 🤝
+    design:
+      columns: '1'
   - block: collection
     id: papers
     content:
