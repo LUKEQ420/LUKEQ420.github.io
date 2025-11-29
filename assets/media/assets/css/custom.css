@@ -21,3 +21,13 @@
     padding-left: 0;
     padding-right: 0;
 }
+
+/* 强制 .research-full-width-final 块的内部容器全宽 */
+.research-full-width-final > .container {
+    /* 覆盖外层容器的最大宽度 */
+    max-width: 95% !important; 
+}
+.research-full-width-final .container {
+    /* 覆盖嵌套在内部的容器（如果存在）的最大宽度 */
+    max-width: 95% !important; 
+}

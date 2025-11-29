@@ -47,8 +47,8 @@ sections:
  
         I am passionate about advancing methods that are both theoretically sound and practically applicable to real-world problems. I welcome opportunities for academic collaboration. 🤝
     design:
-      columns: '1'
-      css_style: '.block-markdown > div.container { max-width: 95% !important; width: 95% !important; } .block-markdown .container { max-width: 95% !important; width: 95% !important; }'
+      columns: '1'
+      css_class: "research-full-width-final"
   - block: collection
     id: papers
     content:
