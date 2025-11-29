@@ -49,8 +49,8 @@ sections:
     design:
       columns: '1'
       css_style: |
-        .block-markdown > div.container { 
-          max-width: 95% !important;
+        .block-markdown > div.container {
+          max-width: 95% !important;
           width: 95% !important;
         }
         .block-markdown .container {
