@@ -39,9 +39,11 @@ sections:
       title: '📚 My Research'
       subtitle: 'Deep Reinforcement Learning & Reliability Optimization'
       text:   |-
-         My research work centers on applying **Markov Decision Processes (MDP)** and **Deep Reinforcement Learning (DRL)** to complex decision-making and algorithmic improvement.
-      1.  **DRL Algorithms & State Representation:** As a research assistant in [**Professor Li Xin**](https://scholar.google.com/citations?user=CpIQOm0AAAAJ&hl=en)'s [Reinforcement Learning Group](https://bit1029public.github.io/), I focus on developing advanced DRL algorithms, including improving model efficiency and generalization through **Bisimulation Metrics** and robust state representation learning. 
-      2.  **Reliability Engineering Optimization:** In collaboration with [**Professor Qingan Qiu**](https://scholar.google.com/citations?user=fFIqhbYAAAAJ&hl=en), I address **reliability-based engineering decision-making** under uncertainty. [cite_start]This work has resulted in a first-author publication in a **JCR Q1 journal** ($\textit{Computers \& Industrial Engineering}$) , with ongoing efforts focused on extending the MDP framework using RL.
+          My research work centers on applying **Markov Decision Processes (MDP)** and **Deep Reinforcement Learning (DRL)** to complex decision-making and algorithmic improvement.
+
+          As a research assistant in [**Professor Li Xin**](https://scholar.google.com/citations?user=CpIQOm0AAAAJ&hl=en)'s [Reinforcement Learning Group](https://bit1029public.github.io/), I focus on developing advanced DRL algorithms, including improving model efficiency and generalization through **Bisimulation Metrics** and robust state representation learning. 
+
+          In collaboration with [**Professor Qingan Qiu**](https://scholar.google.com/citations?user=fFIqhbYAAAAJ&hl=en), I address **reliability-based engineering decision-making** under uncertainty. [cite_start]This work has resulted in a first-author publication in a **JCR Q1 journal**, with ongoing efforts focused on extending the MDP framework using RL.
 
          I am passionate about advancing methods that are both theoretically sound and practically applicable to real-world problems. I welcome opportunities for academic collaboration. 🤝
     design:
