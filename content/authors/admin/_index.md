@@ -42,9 +42,9 @@ profiles:
     url: https://scholar.google.com/citations?user=GZW42aQAAAAJ&hl=en
 
 interests:
-  - Bayesian Statistics
-  - Reliability Engineering
   - Reinforcement Learning
+  - Reliability Engineering
+  - Representation Learning
   - Mathematical Modeling
 
 
@@ -122,17 +122,23 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Outstanding Student Award
+    date: '2025-11-15' 
+    awarder: Beijing Institute of Technology
+    summary: |
+      Comprehensive university-wide honor awarded to the **Top 10\%** of students based on exceptional academic achievement and outstanding research contributions. This recognizes overall excellence across studies and research.
+    icon: uploads/medal
   - title: Excellent Student Scholarship
     date: '2025-10-15' 
     awarder: Beijing Institute of Technology
     summary: |
       Awarded for achieving the **top academic rank (1st place)** in the class during the 2024-2025-2nd semester. This scholarship recognizes exceptional academic performance and dedication to studies.
     icon: uploads/graduation-cap 
-  - title: Finalist ([MCM/ICM](https://www.comap.com/contests/mcm-icm)) <br> Top 1.96% of 27,456 teams worldwide
+  - title: Finalist ([MCM/ICM](https://www.comap.com/contests/mcm-icm)) <br> Top 2% of 27,456 teams worldwide
     date: '2025-05-09'
     awarder: Consortium for Mathematics and its Applications (COMAP)
     summary: |
-      This study quantifies the ecological impact of converting forests to farmland by focusing on nitrogen cycling, a key indicator of ecosystem health. We developed three dynamic models using modified Lotka-Volterra equations: a **Forest Ecosystem Nitrogen Cycle Model (FENCM)**, an **Agricultural Ecosystem Nitrogen Cycle Model (AENCM)** incorporating human interventions, and a more complex **Agricultural Ecosystem-Food Web-Nitrogen Cycle Model (AE-FW-NCM)**. Our comparative analysis of these models highlights the trade-offs between agricultural yield, biodiversity, and sustainability, and concludes with practical recommendations for farmers. The TeX source and numerical simulation code are [open-sourced on GitHub](https://github.com/LUKEQ420/MCM-ICM-2025-E-Nitrogen-Cycling-Model).
+      Project modeled ecological nitrogen cycling using dynamic models (e.g., modified Lotka-Volterra equations). Developed three comparative models to analyze trade-offs between agricultural yield, biodiversity, and sustainability. Solution repository, including TeX source and numerical simulation code, is [open-sourced on GitHub](https://github.com/LUKEQ420/MCM-ICM-2025-E-Nitrogen-Cycling-Model).
     icon: trophy
   - title: Excellent Thesis Prize
     date: '2024-06-30'
