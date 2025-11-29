@@ -44,7 +44,7 @@ sections:
         As a research assistant in [**Professor Li Xin**](https://scholar.google.com/citations?user=CpIQOm0AAAAJ&hl=en)'s [Reinforcement Learning Group](https://bit1029public.github.io/), I focus on developing advanced DRL algorithms, including improving model efficiency and generalization through **Bisimulation Metrics** and robust state representation learning. 
 
         In collaboration with [**Professor Qingan Qiu**](https://scholar.google.com/citations?user=fFIqhbYAAAAJ&hl=en), I address **reliability-based engineering decision-making** under uncertainty. This work has resulted in a first-author publication in a **JCR Q1 journal**, with ongoing efforts focused on extending the MDP framework using RL.
-
+ 
         I am passionate about advancing methods that are both theoretically sound and practically applicable to real-world problems. I welcome opportunities for academic collaboration. 🤝
     design:
       columns: '1'
