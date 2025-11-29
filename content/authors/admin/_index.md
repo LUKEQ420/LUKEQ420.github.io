@@ -144,13 +144,13 @@ awards:
     date: '2024-06-30'
     awarder: Beijing Institute of Technology
     summary: |
-      This prize was awarded for my undergraduate thesis, which developed a novel **Markov Decision Process (MDP) framework** to model and solve complex task termination problems. This research focused on safety-critical systems operating under hybrid uncertainty of both system lifetime and task duration. The findings from this thesis were significant and formed the basis of my first-author publication in the JCR Q1 journal, **Computers \& Industrial Engineering**. [See the publication](https://doi.org/10.1016/j.cie.2025.111208) .
+      Awarded for the undergraduate thesis, which developed a novel **Markov Decision Process (MDP) framework** to model and solve complex task termination problems for safety-critical systems under hybrid uncertainty. This research formed the basis of my first-author publication in the JCR Q1 journal, **Computers \& Industrial Engineering**.
     icon: trophy
-  - title: Meritorious Winner ([MCM/ICM](https://www.comap.com/contests/mcm-icm)) <br> Top 9.29% of 20,858 teams worldwide
+  - title: Meritorious Winner ([MCM/ICM](https://www.comap.com/contests/mcm-icm)) <br> Top 9% of 20,858 teams worldwide
     date: '2023-05-01'
     awarder: Consortium for Mathematics and its Applications (COMAP)
     summary: |
-      To address the increasing frequency of droughts, we developed a series of mathematical models to predict the viability of plant communities under various climate scenarios. Our approach included a **Soil-Water Model (SWM)** based on Darcy's Law and an **Improved Population Lotka-Volterra Model (PLVM)** that accounts for species competition. We combined these into a comprehensive **Plant Soil Moisture Competition Model (PSMCM)** to solve real-world problems related to drought mitigation and sustainable land-use planning. Our study provides valuable insights into the composition of drought-resistant plant communities and can assist in conservation efforts in arid regions.
+      Developed a comprehensive **Plant Soil Moisture Competition Model (PSMCM)**, combining a Soil-Water Model and an Improved Lotka-Volterra Model, to predict plant community viability under drought conditions. The team was also awarded the Huixian Special Grant (Te Li College) for outstanding contribution to international competition achievements.
     icon: uploads/medal
 ---
 
