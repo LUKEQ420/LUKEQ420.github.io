@@ -48,7 +48,8 @@ sections:
         I am passionate about advancing methods that are both theoretically sound and practically applicable to real-world problems. I welcome opportunities for academic collaboration. 🤝
     design:
       columns: '1'
-      css_class: "container-xl" # or "container-fluid"
+      #css_class: "container-xl" # or "container-fluid"
+      full_width: true
   - block: collection
     id: papers
     content:
