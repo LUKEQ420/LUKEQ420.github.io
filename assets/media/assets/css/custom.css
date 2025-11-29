@@ -1,0 +1,23 @@
+/*
+ * assets/css/custom.css
+ * 强制 My Research 模块全宽显示
+ */
+
+ .research-full-width .container {
+    max-width: 100% !important;
+    width: 90% !important; /* 或者使用 90% 留出边缘，或者设置为 100% */
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+/* 针对屏幕过大时，内容可能仍然被限制，需要覆盖更深层的容器 */
+.research-full-width .col-12 {
+    max-width: 100% !important;
+}
+
+/* 如果要实现真正意义上的全屏宽度 (Full Viewport Width): */
+.research-full-width section {
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+}

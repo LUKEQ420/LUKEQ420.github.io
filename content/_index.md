@@ -50,6 +50,7 @@ sections:
       columns: '1'
       #css_class: "container-xl" # or "container-fluid"
       full_width: true
+      css_class: "research-full-width"
   - block: collection
     id: papers
     content:
