@@ -149,6 +149,9 @@ awards:
 ---
 
 ## About Me
-I have completed a Bachelor's degree in Mathematics and am now pursuing a second degree in Computer Science at the Beijing Institute of Technology.
+I have completed a Bachelor's degree in Mathematics and am now pursuing a second Bachelor degree in Computer Science at the Beijing Institute of Technology.
 
-My academic interests are centered at the intersection of Bayesian statistics and modern reinforcement learning. Through my prior work in reliability engineering and state representation learning, I have developed a strong interest in advancing the computational scalability of Bayesian inference for complex systems and in creating more expressive models for latent dynamics. I am passionate about developing methods that are both theoretically sound and practically applicable. Currently, I am actively seeking Ph.D. positions and welcome opportunities for academic collaboration.
+My core research interest is centered on **Markov Decision Process (MDP)** and **Deep Reinforcement Learning (DRL)**. My work primarily spans two key areas:
+1. **DRL Applications:** Applying DRL methods to solve complex, real-world optimization problems, such as critical mission termination and system maintenance strategies in **reliability engineering**.
+2. **DRL Algorithms:** Advancing core algorithmic efficiency and robustness, focusing specifically on **State Representation Learning** to enhance model generalization and sample efficiency.
+I am passionate about developing methods that are both theoretically rigorous and practically applicable. I am currently seeking **graduate opportunities (M.S. and Ph.D.)** in related fields and welcome opportunities for academic collaboration.
