@@ -49,7 +49,7 @@ interests:
 
 
 education:
-  - area: B.S. in Computer Science and Technology
+  - area: B.E. in Computer Science and Technology
     institution: Beijing Institute of Technology
     date_start: 2024-08-15
     date_end: 2026-06-30
@@ -155,10 +155,12 @@ awards:
 ---
 
 ## About Me
-I have completed a Bachelor's degree in Mathematics and am now pursuing a second Bachelor degree in Computer Science at the Beijing Institute of Technology.
+I hold a B.S. in Mathematics and am currently pursuing a second Bachelor's degree in Computer Science at the Beijing Institute of Technology. My dual academic background equips me with a rigorous mathematical foundation and strong computational engineering capabilities.
 
-My core research interest is centered on **Markov Decision Process (MDP)** and **Deep Reinforcement Learning (DRL)**. My work primarily spans two key areas:
-1. **DRL Applications:** Applying DRL methods to solve complex, real-world optimization problems, such as critical mission termination and system maintenance strategies in **reliability engineering**.
-2. **DRL Algorithms:** Advancing core algorithmic efficiency and robustness, focusing specifically on **State Representation Learning** to enhance model generalization and sample efficiency.
+My research interests broadly encompass **Sequential Decision Making under Uncertainty**, **Operations Research**, and **Deep Reinforcement Learning (DRL)**. I am passionate about bridging theoretically rigorous mathematical modeling with efficient algorithmic solutions. My current work primarily spans two key pillars:
 
-I am passionate about developing methods that are both theoretically rigorous and practically applicable. I am currently seeking **graduate opportunities (M.S. and Ph.D.)** in related fields and welcome opportunities for academic collaboration. 
+**Reliability Engineering & Stochastic Control**: Formulating adaptive control frameworks and dynamic switching strategies for mission-critical systems. By integrating infinite-horizon POMDPs with real-time Bayesian inference, I focus on deriving computationally efficient, theoretically guaranteed policies (e.g., exact analytical bounds and myopic heuristics) to balance operational risk and learning efficiency.
+
+**Deep Reinforcement Learning & Representation Learning**: Advancing the core algorithmic robustness and sample efficiency of DRL in highly stochastic environments. My research involves identifying theoretical bottlenecks (such as the "Variance Trap") via Stochastic Differential Equations (SDEs) and developing novel optimization frameworks to decouple structural errors from transition noise.
+
+I am driven by developing methodologies that are mathematically beautiful and practically impactful. I am currently seeking **graduate opportunities (Master's or Ph.D.)** starting in Fall 2026 and warmly welcome opportunities for academic collaboration.
