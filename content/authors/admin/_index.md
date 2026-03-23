@@ -155,12 +155,12 @@ awards:
 ---
 
 ## About Me
-I hold a B.S. in Mathematics and am currently pursuing a second Bachelor's degree in Computer Science at the Beijing Institute of Technology. My dual academic background equips me with a rigorous mathematical foundation and strong computational engineering capabilities.
+I hold a B.S. in Mathematics and am currently pursuing a second Bachelor's degree in Computer Science at the Beijing Institute of Technology. This dual academic background equips me with a rigorous mathematical foundation and strong computational engineering skills.
 
-My research interests broadly encompass **Sequential Decision Making under Uncertainty**, **Operations Research**, and **Deep Reinforcement Learning (DRL)**. I am passionate about bridging theoretically rigorous mathematical modeling with efficient algorithmic solutions. My current work primarily spans two key pillars:
+My research interests lie at the intersection of **Sequential Decision Making under Uncertainty**, **Operations Research**, and **Deep Reinforcement Learning (DRL)**. I am passionate about bridging theoretical mathematical modeling with efficient algorithmic design. My current work focuses on two main areas:
 
-**Reliability Engineering & Stochastic Control**: Formulating adaptive control frameworks and dynamic switching strategies for mission-critical systems. By integrating infinite-horizon POMDPs with real-time Bayesian inference, I focus on deriving computationally efficient, theoretically guaranteed policies (e.g., exact analytical bounds and myopic heuristics) to balance operational risk and learning efficiency.
+1. **Reliability Engineering & Stochastic Control**: Developing adaptive control frameworks and sequential decision-making strategies for mission-critical systems to safely balance operational risk and long-term efficiency.
 
-**Deep Reinforcement Learning & Representation Learning**: Advancing the core algorithmic robustness and sample efficiency of DRL in highly stochastic environments. My research involves identifying theoretical bottlenecks (such as the "Variance Trap") via Stochastic Differential Equations (SDEs) and developing novel optimization frameworks to decouple structural errors from transition noise.
+2. **Deep Reinforcement Learning & Representation Learning**: Enhancing the robustness, generalization, and sample efficiency of DRL algorithms in highly stochastic and complex environments.
 
-I am driven by developing methodologies that are mathematically beautiful and practically impactful. I am currently seeking **graduate opportunities (Master's or Ph.D.)** starting in Fall 2026 and warmly welcome opportunities for academic collaboration.
+I am driven to create methodologies that are both theoretically sound and practically impactful. I am actively seeking **graduate opportunities (Master's or Ph.D.)** starting in Fall 2026 and always welcome opportunities for academic collaboration.
