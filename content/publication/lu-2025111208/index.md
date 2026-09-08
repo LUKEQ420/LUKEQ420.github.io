@@ -2,12 +2,12 @@
 title: Learning to optimize termination decisions under hybrid uncertainty of system
   lifetime and task duration
 authors:
-- Junqi Lu
+- admin
 - Bosen Liu
 - Cuicui Pei
 - Qingan Qiu
 - Li Yang
-date: '2025-05-30'
+date: '2025-05-24'
 publishDate: '2025-09-04T03:54:19.826763Z'
 featured: true
 publication_types:
@@ -42,6 +42,6 @@ tags:
 - System survivability
 - Bayesian parameter inference
 links:
-- name: URL
+- name: Publisher
   url: https://www.sciencedirect.com/science/article/pii/S0360835225003547
 ---

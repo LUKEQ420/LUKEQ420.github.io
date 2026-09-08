@@ -23,18 +23,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Undergraduate Student / Researcher
+role: Master's Student in Mathematics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Beijing Institute of Technology
-    url: https://english.bit.edu.cn/
+  - name: University of Luxembourg
+    url: https://www.uni.lu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:junqi_lu@bit.edu.cn'
+    url: 'mailto:lu.junqi.001@student.uni.lu'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/LUKEQ420
@@ -49,6 +49,13 @@ interests:
 
 
 education:
+  - area: Master of Mathematics
+    institution: University of Luxembourg
+    date_start: 2026-09-01
+    date_end: 2028-06-30
+    summary: |
+      Expected graduation: June 2028. Coursework includes functional analysis, partial differential equations, finite element analysis, numerical analysis, and numerical methods for continuous optimization.
+
   - area: B.E. in Computer Science and Technology
     institution: Beijing Institute of Technology
     date_start: 2024-08-15
@@ -102,7 +109,7 @@ skills:
         icon: person-simple-walk
       - name: Guitar
         description: 'Serves as the guitarist in a rock band on campus.'
-        pecent: 100
+        percent: 100
         icon: custom/guitar
       - name: Cats
         description: 'Everybody loves cats, right?'
@@ -155,12 +162,11 @@ awards:
 ---
 
 ## About Me
-I hold a B.S. in Mathematics and am currently pursuing a second Bachelor's degree in Computer Science at the Beijing Institute of Technology. This dual academic background equips me with a rigorous mathematical foundation and strong computational engineering skills.
 
-My research interests lie at the intersection of **Sequential Decision Making under Uncertainty**, **Operations Research**, and **Deep Reinforcement Learning (DRL)**. I am passionate about bridging theoretical mathematical modeling with efficient algorithmic design. My current work focuses on two main areas:
+I am a master's student in mathematics at the [University of Luxembourg](https://www.uni.lu/), with a background in mathematics and computer science at Beijing Institute of Technology.
 
-1. **Reliability Engineering & Stochastic Control**: Developing adaptive control frameworks and sequential decision-making strategies for mission-critical systems to safely balance operational risk and long-term efficiency.
+My research focuses on **sequential decision-making under uncertainty**, particularly **reinforcement learning**, **state representation learning**, and **stochastic optimization**. I am interested in how agents can learn useful representations and make reliable decisions in stochastic environments.
 
-2. **Deep Reinforcement Learning & Representation Learning**: Enhancing the robustness, generalization, and sample efficiency of DRL algorithms in highly stochastic and complex environments.
+My published work in *Computers & Industrial Engineering* studies Bayesian learning and optimal task termination with uncertain system lifetimes and task durations. My current research explores state similarity and optimization methods for representation learning in reinforcement learning.
 
-I am driven to create methodologies that are both theoretically sound and practically impactful. I am actively seeking **graduate opportunities (Master's or Ph.D.)** starting in Fall 2026 and always welcome opportunities for academic collaboration.
+I welcome research collaborations and opportunities to develop these interests through a master's research project or research internship.
