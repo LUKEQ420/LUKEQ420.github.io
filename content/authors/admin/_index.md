@@ -49,12 +49,12 @@ interests:
 
 
 education:
-  - area: Master of Mathematics
+  - area: M.S. in Mathematics
     institution: University of Luxembourg
     date_start: 2026-09-01
     date_end: 2028-06-30
     summary: |
-      Expected graduation: June 2028. Coursework includes functional analysis, partial differential equations, finite element analysis, numerical analysis, and numerical methods for continuous optimization.
+      Expected graduation: June 2028. 
 
   - area: B.E. in Computer Science and Technology
     institution: Beijing Institute of Technology
