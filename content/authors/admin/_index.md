@@ -56,14 +56,14 @@ education:
     summary: |
       Expected graduation: June 2028. 
 
-  - area: B.E. in Computer Science and Technology
+  - area: B.E. in Computer Science
     institution: Beijing Institute of Technology
     date_start: 2024-08-15
     date_end: 2026-06-30
     summary: |
       Focusing on advanced algorithms, machine learning, and artificial intelligence. This dual-degree program provides a strong foundation for my current research in Reinforcement Learning.
 
-  - area: B.S. in Mathematics and Applied Mathematics
+  - area: B.S. in Mathematics
     institution: Beijing Institute of Technology
     date_start: 2020-10-09
     date_end: 2024-06-30
