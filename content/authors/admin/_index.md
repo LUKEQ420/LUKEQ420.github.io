@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Junqi Lu
+title: 陆俊骐
 
 # Name pronunciation (optional)
 name_pronunciation: Lu Jun Qi

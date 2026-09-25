@@ -2,7 +2,7 @@
 title: Learning to optimize termination decisions under hybrid uncertainty of system
   lifetime and task duration
 authors:
-- admin
+- Junqi Lu
 - Bosen Liu
 - Cuicui Pei
 - Qingan Qiu
