@@ -40,6 +40,8 @@ profiles:
     url: https://github.com/LUKEQ420
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=GZW42aQAAAAJ&hl=en
+  - icon: brands/linkedin
+    url: https://https://www.linkedin.com/in/junqi-lu-a50219436/
 
 interests:
   - Reinforcement Learning
